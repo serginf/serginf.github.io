@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-##2015
+## 2015
 
 + Petar Jovanovic, Oscar Romero, Alkis Simitsis, Alberto Abelló, Héctor Candón, Sergi Nadal: <u><a href="">Quarry: Digging Up the Gems of Your Data Treasury</a></u>. EDBT 2015
 
