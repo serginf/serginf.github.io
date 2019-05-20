@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Sergi Nadal"
-  avatar           : "profile.png"
-  bio              : "Postdoctoral researcher at UPC - Computer Science / Data Management"
+  avatar           : "sergi.jpg"
+  bio              : "Postdoctoral researcher at UPC (Computer Science / Data Management)"
   location         : "Barcelona"
   employer         :
   dblp             : "https://dblp.uni-trier.de/pers/hd/n/Nadal:Sergi" 
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/serginf/"
+  github           : "serginf/"
   google_plus      :
   keybase          :
   instagram        :
