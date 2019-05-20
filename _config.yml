@@ -83,12 +83,12 @@ author:
   name             : "Sergi Nadal"
   avatar           : "sergi.jpg"
   bio              : "Postdoctoral researcher at UPC (Computer Science / Data Management)"
-  location         : "Barcelona"
+  location         : "Ω-S206, Campus Nord,<br>C/Jordi Girona nº1<br>08034, Barcelona"
   employer         :
   dblp             : "https://dblp.uni-trier.de/pers/hd/n/Nadal:Sergi" 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.es/citations?user=7SyAji4AAAAJ&hl=ca"
-  email            :
+  email            : "snadal<code>@</code>essi.upc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "serginf/"
+  github           : "serginf"
   google_plus      :
   keybase          :
   instagram        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/serginadalf"
+  twitter          : "serginadalf"
   vine             :
   weibo            :
   xing             :
