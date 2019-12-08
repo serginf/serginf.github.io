@@ -3,13 +3,15 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
----
+--- 
 
 ## 2019
 
 + Sergi Nadal, Oscar Romero, Alberto Abelló, Panos Vassiliadis, Stijn Vansummeren: <a href="https://doi.org/10.1016/j.is.2018.01.006" target="_blank">An integration-oriented ontology to govern evolution in Big Data ecosystems</a>. Inf. Syst. 79: 3-19
 
 + Sergi Nadal, Alberto Abelló: <a href="https://doi.org/10.1007/978-3-319-63962-8_13-1" target="_blank">Integration-Oriented Ontology</a>. Encyclopedia of Big Data Technologies 2019
+
++ Sergi Nadal, Kashif Rabbani, Oscar Romero, Shumet Tadesse: <a href="http://ceur-ws.org/Vol-2456/paper48.pdf" target="_blank">ODIN: A Dataspace Management System</a>. ISWC 2019: 185-188 (Satellite events)
 
 ## 2018
 
