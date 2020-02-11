@@ -21,12 +21,12 @@ I'm mostly involved in courses related to databases and data management at the b
 ## Master
 
 + Big Data Management (<a href="https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics/curriculum/syllabus/BDM-MIRI" target="_blank">BDM</a>)
-    + 2017/18 Q1, 2017/18 Q2, 2018/19 Q2,
+    + 2017/18 Q1, 2017/18 Q2, 2018/19 Q2, 2019/20 Q2
         
 + Business Intelligence Project (<a href="https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics/curriculum/syllabus/BIP-MIRI" target="_blank">BIP</a>)
     + 2017/18 Q1
 
-Some other courses where I participated outside of FIB:
+Some other courses where I participated outside FIB:
 
 + Master in Big Data Management and Analytics (former Postgraduate course) (<a href="https://www.talent.upc.edu/cat/estudis/formacio/curs/200800/master-big-data-management-technologies-analytics/" target="_blank">UPC School</a>)
     + 2016, 2017, 2018, 2019, 2020

@@ -12,6 +12,8 @@ Here you will find some research and knowledge transfer projects I have particip
 + Las Moiras de AdQore (<a href="https://inlab.fib.upc.edu/en/moiras-adqore-intelligent-technological-platform-optimization-data-driven-marketing-processes" target="_blank">MoirAI</a>)
 
 + Generation and Evolution of Smart APIs (<a href="https://genesis.upc.edu/en" target="_blank">GENESIS</a>)
+
++ Data management support and extensions in GLI (<a href="https://www.fundacionprobitas.org/">Probitas Foundation</a>)
     
 ## Past
 
