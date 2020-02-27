@@ -7,6 +7,8 @@ author_profile: true
 
 ## Program commitee membership
 
++ 22nd International Conference on Big Data Analytics and Knowledge Discovery (<a href="http://www.dexa.org/dawak2020" target="_blank">DaWaK 2020</a>)
+
 + 22nd International Workshop On Design, Optimization, Languages and Analytical Processing of Big Data (<a href="http://www.essi.upc.edu/dtim/DOLAP/" target="_blank">DOLAP 2020</a>)
     
 ## External reviewer
