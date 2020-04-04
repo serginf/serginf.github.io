@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 --- 
 
+## 2020
+
++ Petar Jovanovic, Sergi Nadal, Oscar Romero, Alberto Abelló, Besim Bilalli: Quarry : A User-centered Big Data Integration Platform. Inf. Syst. Frontiers (in press)
+
 ## 2019
 
 + Sergi Nadal, Oscar Romero, Alberto Abelló, Panos Vassiliadis, Stijn Vansummeren: <a href="https://doi.org/10.1016/j.is.2018.01.006" target="_blank">An integration-oriented ontology to govern evolution in Big Data ecosystems</a>. Inf. Syst. 79: 3-19
