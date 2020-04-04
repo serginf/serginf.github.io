@@ -21,7 +21,7 @@ I'm mostly involved in courses related to databases and data management at the b
 ## Master
 
 + Big Data Management (<a href="https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics/curriculum/syllabus/BDM-MIRI" target="_blank">BDM</a>)
-    + 2017/18 Q1, 2017/18 Q2, 2018/19 Q2, 2019/20 Q2
+    + 2017/18 Q1, 2017/18 Q2, 2018/19 Q2, 2019/20 Q2 (coordination)
         
 + Business Intelligence Project (<a href="https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics/curriculum/syllabus/BIP-MIRI" target="_blank">BIP</a>)
     + 2017/18 Q1
