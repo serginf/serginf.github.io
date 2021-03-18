@@ -5,9 +5,19 @@ permalink: /publications/
 author_profile: true
 --- 
 
+## 2021
+
++ Petar Jovanovic, Sergi Nadal, Oscar Romero, Alberto Abelló, Besim Bilalli: <a href="https://doi.org/10.1007/s10796-020-10001-y" target="_blank">Quarry: A User-centered Big Data Integration Platform. Inf. Syst. Frontiers 23(1): 9-33
+
++ Javier Flores, Sergi Nadal, Oscar Romero : <a href="https://edbt2021proceedings.github.io/docs/p61.pdf" taget="_blank">Towards Scalable Data Discovery</a>. EDBT 2021: 433-438
+
++ Javier Flores, Sergi Nadal, Oscar Romero: <a href="https://edbt2021proceedings.github.io/docs/p184.pdf" target="_blank">Effective and Scalable Data Discovery with NextiaJD</a>. EDBT 2021: 690-694
+
++ Moditha Hewasinghage, Sergi Nadal, Alberto Abelló: <a href="https://edbt2021proceedings.github.io/docs/p175.pdf">DocDesign 2.0: Automated Database Design for Document Stores with Multi-criteria Optimization</a>. EDBT 2021: 674-677
+
 ## 2020
 
-+ Petar Jovanovic, Sergi Nadal, Oscar Romero, Alberto Abelló, Besim Bilalli: Quarry : A User-centered Big Data Integration Platform. Inf. Syst. Frontiers (in press)
++ Moditha Hewasinghage, Sergi Nadal, Alberto Abelló: <a href="https://doi.org/10.1007/978-3-030-54623-6_7" target="_blank">On the Performance Impact of Using JSON, Beyond Impedance Mismatch</a>. ADBIS (Short Papers): 73-83
 
 ## 2019
 
