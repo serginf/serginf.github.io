@@ -9,7 +9,7 @@ Here you will find some research and knowledge transfer projects I have particip
 
 ## Current
 
-+  An Automatic Data Discovery Approach to Enhance Barcelona's Data Ecosystem (Ajuntament de Barcelona, in press <a href="https://www.upc.edu/ca/sala-de-premsa/noticies/la-upc-repensa-el-model-de-ciutat-i-dissenya-solucions-per-fer-front-a-limpacte-de-la-covid-19-a-barcelona">[1]</a><a href="https://www.barcelona.cat/infobarcelona/ca/els-premis-de-recerca-cientifica-reconeixen-quinze-projectes-per-fer-front-als-reptes-de-la-pandemia_1049119.html">[2]</a>)
++  An Automatic Data Discovery Approach to Enhance Barcelona's Data Ecosystem (Ajuntament de Barcelona, in press <a href="https://www.upc.edu/ca/sala-de-premsa/noticies/la-upc-repensa-el-model-de-ciutat-i-dissenya-solucions-per-fer-front-a-limpacte-de-la-covid-19-a-barcelona">[1]</a>, <a href="https://www.barcelona.cat/infobarcelona/ca/els-premis-de-recerca-cientifica-reconeixen-quinze-projectes-per-fer-front-als-reptes-de-la-pandemia_1049119.html">[2]</a>, <a href="https://www.fib.upc.edu/ca/la-fib/la-facultat/premis-i-reconeixements/el-professor-de-la-fib-sergi-nadal-premi-de-recerca-cientifica-reptes-urbans-2020">[3]</a>)
 
 + Data Engineering for Data Science (<a href="https://deds.ulb.ac.be/">Innovative Training Networks</a>)
 
